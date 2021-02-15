@@ -10,5 +10,5 @@ Content begin
 function printLog(string $content) : void {
     echo "$content\n";
 }
-end :smile:
 ```
+end :smile:
