@@ -2,3 +2,5 @@ baseURL = "https://rylynchen.github.io/"
 languageCode = "en-us"
 title = "Rylyn Chen Blog"
 theme = "ananke"
+
+enableEmoji = true
